@@ -1,3 +1,8 @@
+https://github.com/backplane/open-webui-mirror
+
+
+
+
 # whisper-action
 
 Speech-to-Text using [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) for [GitHub Action](https://github.com/features/actions). High-performance inference of OpenAI Whisper automatic speech recognition (ASR) model.
